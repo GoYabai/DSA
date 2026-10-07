@@ -1,5 +1,3 @@
-
-
 class Solution:
     def replaceElements(self, arr: list[int]) -> list[int]:
         for i in range(len(arr)):
